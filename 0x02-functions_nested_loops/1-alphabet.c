@@ -16,16 +16,4 @@ void print_alphabet(void)
 		l += 1;
 	}
 	_putchar(10);
-#include "main.h"
-
-/**
- * main - check the code
- *
- * Return: Always 0.
- */
-int:wq
-	    main(void)
-{
-    print_alphabet();
-    return (0);
-}}
+}
